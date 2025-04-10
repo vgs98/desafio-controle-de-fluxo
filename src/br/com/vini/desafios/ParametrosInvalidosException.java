@@ -1,3 +1,4 @@
+package br.com.vini.desafios;
 
 public class ParametrosInvalidosException extends Exception {
     /**
