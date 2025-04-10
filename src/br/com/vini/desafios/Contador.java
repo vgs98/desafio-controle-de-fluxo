@@ -1,3 +1,4 @@
+package br.com.vini.desafios;
 import java.util.Scanner;
 
 public class Contador {
